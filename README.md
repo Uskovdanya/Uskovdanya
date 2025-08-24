@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and an amateur artist
 -----------------------------------
 
-I've been learning to program for about 2 and a half years, and now I'm going to change my profession. I started with HTML, and now I'm learning NEXT.js. It was a great journey.. And it's not over yet.
+I've been learning to program for about 2 and a half years, and now I'm going to change my profession. It was a great journey.. And it's not over yet.
 
 * 🌍  I'm based in Saratov, Russia
 * ✉️  You can contact me at [uskov.danya@gmail.com](mailto:uskov.danya@gmail.com)
