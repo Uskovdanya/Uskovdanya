@@ -8,7 +8,6 @@ I've been learning to program for about 2 and a half years, and now I'm going to
 
 * 🌍  I'm based in Saratov, Russia
 * ✉️  You can contact me at [uskov.danya@gmail.com](mailto:uskov.danya@gmail.com)
-* 🧠  I'm learning NEXT.js
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like studying and I have a lot of perseverance for this
 
